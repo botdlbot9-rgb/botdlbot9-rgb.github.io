@@ -1,0 +1,3 @@
+# Redirect permanenti (Cloudflare Pages). Il redirect www -> apex e .com -> .it si configura
+# a livello di zona Cloudflare (Redirect Rules), vedi docs/DEPLOYMENT.md.
+/rubriche/prima-rispondi-poi-scopri /prima-rispondi-poi-scopri 301
